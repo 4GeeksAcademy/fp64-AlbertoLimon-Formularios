@@ -1,6 +1,4 @@
-body{
-}
-form{
-  
-    
+.container{
+    margin: 100px auto;
+    border: 1px solid lightgray;
 }
